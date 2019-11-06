@@ -2,31 +2,32 @@
 
 
 body {
+  background-color: #AEBDCC;
+  font-family: 'Merriweather', serif;
   margin: 0;
   text-align: center;
-  font-family: 'Merriweather', serif;
-  background-color: #AEBDCC;
 }
 
 h1 {
   color: #1a3e59;
+  font-family: 'Montez', cursive;
+  font-weight: lighter;
+  font-size: 4.4rem;
   margin: 50px auto 0 auto;
   text-align: center;
-  font-family: 'Montez', cursive;
-  font-size: 4.4rem;
-  font-weight: lighter;
 }
 
 h2 {
-  font-family: 'Montserrat', sans-serif;
   color: #1a3e59;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1.1rem;
   padding-bottom: 10px;
 }
 
 h3 {
-  font-family: 'Montserrat', sans-serif;
   color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  
 }
 
 hr {
@@ -58,17 +59,18 @@ a:hover {
 
 .header {
   background-color: #66809F;
-  padding: 50px;
-  margin: 0;
   color: #EAF1F4;
   font-weight: lighter;
+  margin: 0;
+  padding: 50px;
 }
 
 .top-container {
   background-color: #ADBCCB;
+  margin: 0;
   padding-top: 80px;
   position: relative;
-  margin: 0;
+  
 }
 
 .credits-top-container {
@@ -83,16 +85,16 @@ a:hover {
 
 .bottom-cloud {
   position: absolute;
-  right: 200px;
   bottom: 40%;
-  width: 9%
+  right: 200px;
+  width: 9%;
 }
 
 .top-cloud {
   position: absolute;
   left: 220px;
   top: 80px;
-  width: 9%
+  width: 9%;
 }
 
 .mountains_silhouette {
@@ -105,14 +107,14 @@ a:hover {
 }
 
 .avatar {
-  width: 15%;
   margin: 40px auto;
+  width: 15%;
 }
 
 .profile {
+  background-color: white;
   line-height: 1.5rem;
   margin: 0 auto 0 auto;
-  background-color: white;
 }
 
 .coder-img {
@@ -122,8 +124,8 @@ a:hover {
 }
 
 .coding-title {
-  text-align: left;
   margin: 0 auto 20px auto;
+  text-align: left;
   width: 60%;
 }
 
@@ -149,8 +151,8 @@ a:hover {
 }
 
 .editing-title {
-  text-align: left;
   margin: 0 auto 20px auto;
+  text-align: left;
   width: 60%;
 }
 
@@ -202,11 +204,11 @@ a:hover {
 .myButton {
   background: linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
   background-color: #7892c2;
-  border-radius: 28px;
   border: 1px solid #4e6096;
+  border-radius: 28px;
   display: inline-block;
-  cursor: pointer;
   color: #ffffff;
+  cursor: pointer;
   font-family: 'Montserrat', sans-serif;
   font-size: 17px;
   font-weight: bold;
@@ -257,6 +259,12 @@ a:hover {
 
 .credits-rule {
   margin: 40px auto;
+}
+
+.oblique {
+  font-family: 'Montserrat', sans-serif;
+  font-style: oblique;
+  font-weight: bold;
 }
 
 /******************** ID SELECTORS  ********************/
