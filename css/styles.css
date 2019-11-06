@@ -19,7 +19,7 @@ h1 {
 h2 {
   font-family: 'Montserrat', sans-serif;
   color: #1a3e59;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   padding-bottom: 10px;
 }
 
@@ -82,7 +82,7 @@ a:hover {
 .bottom-cloud {
   position: absolute;
   right: 200px;
-  bottom: 50%;
+  bottom: 40%;
   width: 9%
 }
 
