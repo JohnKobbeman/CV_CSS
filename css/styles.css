@@ -15,6 +15,7 @@ h1 {
   font-size: 4.4rem;
   margin: 50px auto 0 auto;
   text-align: center;
+  text-shadow: 0 1px 0 #EAF1F4;
 }
 
 h2 {
@@ -63,6 +64,7 @@ a:hover {
   font-weight: lighter;
   margin: 0;
   padding: 50px;
+  text-shadow: 0 3px 0 #1a3e59;
 }
 
 .top-container {
